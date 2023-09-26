@@ -10,9 +10,7 @@ PROBLEM STATEMENT
 
 
 1 Rating
-
 2 Duration
-
 3 Release year
 4 Date Added
 5 Genre
