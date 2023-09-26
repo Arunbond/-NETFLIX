@@ -11,13 +11,21 @@ PROBLEM STATEMENT
 
 1 Rating
 2 Duration
+
 3 Release year
+
 4 Date Added
+
 5 Genre
+
 6 Description
+
 7 Total movies and tv shows by country
+
 8 Movies and TV shows distribution
+
 9 Top 10 genre
+
 10 Total movies and TV shows by year
 
 
